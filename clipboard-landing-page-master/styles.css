@@ -1,0 +1,183 @@
+body{
+    text-align: center;
+    font-size: 18px;
+    color: #73777B;
+    box-sizing: content-box;
+}
+.top{
+    background-image: url(images/bg-header-desktop.png);
+    padding: 50px;
+
+}
+#firstsector{
+    margin-top : -10px;
+    
+}
+p{
+    color: rgba(155, 144, 144, 0.39);
+}
+h2{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+
+}
+.exp{
+ text-align: left;
+ margin-top: 75px;
+}
+.btn{
+    border-radius: 23px;
+    background-color: #3FA796;
+    color: white;
+    margin-right: 15px;
+    margin-bottom:  80px;
+
+}
+
+.bon{
+    background-color: #A66CFF;
+}
+.nova{
+    margin-bottom: 80px;
+}
+.beef{
+    margin-left: -50px;
+    margin-bottom: 80px;
+}
+.differ{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+.level{
+    margin-top: 8px;
+}
+.expression{
+    display: inline-block;
+    list-style: none;
+}
+.tabili{
+    text-align: left;
+    float: right;
+    margin-right: 700px ;
+}
+footer{
+  background-color: #EFEFEF;
+  margin-top: 80px;
+  padding-top: 50px;
+}
+/*.roll{
+
+   display: flex;
+   
+}*/
+.boval{
+margin-left: 100px;
+}
+.bovil{
+position: relative ;
+left: 350px;
+top: 13px;
+margin-right: 20px;
+width: 10px;
+height: 10px;
+
+}
+ul li{
+    list-style: none;
+    margin: auto;
+}
+.col1, .col2, .col3{
+    display: inline;
+}
+/*.box{
+    display: flex;
+    text-align: left;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+
+.attribution{
+    text-align: center;
+}
+/*.boil{
+    height: -13px;
+    position: relative;
+    right: 90px;
+
+}
+[alt ="logo"]{
+    height: 40px;
+    margin-left: 50px;
+}*/
+/*
+@media screen and (max-width: 1080px){
+   #phase1{
+    text-align: center;
+   }
+
+}
+@media screen and (max-width: 768px){
+   #phase1{
+    text-align: center;
+   }
+    .bon{
+    margin-top: -52px;
+    }
+.box{
+    display: block;
+    padding-top: 20px;
+}
+[alt ="logo"]{
+    display: block;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+}
+[alt ="Google"], [alt ="IBM"], [alt ="logo-microsoft"], [alt="hp"] {
+    margin-bottom: 20px;
+}
+.bon{
+    margin-bottom: 29px;
+}
+.reduce, .reduce1{
+    margin-top: -15px;
+}
+}
+@media screen and (min-width: 768px) {
+[alt ="logo"]{
+display: block;
+position: relative;
+left: 300px;
+
+    }
+}*/
+ @media screen and (max-width: 414px) {
+    .bon{
+        margin-top: -50px;
+    }
+    .exp{
+        text-align: center;
+        margin-top: -30px;
+    }
+}
+@media screen  and (max-width:  1080px)  {
+    [alt ="Google"], [alt ="IBM"], [alt ="logo-microsoft"], [alt="hp"] {
+        margin-bottom: 20px;
+    }
+    .reduce, .reduce1{
+    margin-top: -15px;
+    }
+    [alt ="logo"]{
+        position: relative;
+        left: 10px;
+        bottom: 10px;
+    }
+ } 
+ /*@media screen and(min-width: 500px) {
+    .beef{
+        position: relative;
+        top: 50px;
+    }
+ }  
